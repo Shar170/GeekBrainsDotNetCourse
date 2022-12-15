@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\dotnet\first\bin\Debug\net6.0\first.exe
+I:\projects\GeekBrains\dotnet\first\bin\Debug\net6.0\first.deps.json
+I:\projects\GeekBrains\dotnet\first\bin\Debug\net6.0\first.runtimeconfig.json
+I:\projects\GeekBrains\dotnet\first\bin\Debug\net6.0\first.dll
+I:\projects\GeekBrains\dotnet\first\bin\Debug\net6.0\first.pdb
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.dll
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\refint\first.dll
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.pdb
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+I:\projects\GeekBrains\dotnet\first\obj\Debug\net6.0\ref\first.dll
