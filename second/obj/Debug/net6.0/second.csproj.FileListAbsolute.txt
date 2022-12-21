@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\bin\Debug\net6.0\second.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\bin\Debug\net6.0\second.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\bin\Debug\net6.0\second.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\bin\Debug\net6.0\second.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\bin\Debug\net6.0\second.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\refint\second.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\second.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\second\obj\Debug\net6.0\ref\second.dll
