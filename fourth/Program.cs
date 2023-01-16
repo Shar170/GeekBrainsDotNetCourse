@@ -51,7 +51,6 @@ void task27(){
     for(int i = A; i!= 0; i/=10){
         sum += i%10;
     }
-    
     Console.WriteLine($"Сумма цифр:{sum}");
 }
 
