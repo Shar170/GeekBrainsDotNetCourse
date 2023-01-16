@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\bin\Debug\net6.0\fourth.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\bin\Debug\net6.0\fourth.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\bin\Debug\net6.0\fourth.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\bin\Debug\net6.0\fourth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\bin\Debug\net6.0\fourth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\refint\fourth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\fourth.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\fourth\obj\Debug\net6.0\ref\fourth.dll
