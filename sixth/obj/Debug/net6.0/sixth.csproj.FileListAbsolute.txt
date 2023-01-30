@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\bin\Debug\net6.0\sixth.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\bin\Debug\net6.0\sixth.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\bin\Debug\net6.0\sixth.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\bin\Debug\net6.0\sixth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\bin\Debug\net6.0\sixth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\refint\sixth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\sixth.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\sixth\obj\Debug\net6.0\ref\sixth.dll
