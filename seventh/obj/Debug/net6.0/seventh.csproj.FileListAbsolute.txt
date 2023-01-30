@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\bin\Debug\net6.0\seventh.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\bin\Debug\net6.0\seventh.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\bin\Debug\net6.0\seventh.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\bin\Debug\net6.0\seventh.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\bin\Debug\net6.0\seventh.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\refint\seventh.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\seventh.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\seventh\obj\Debug\net6.0\ref\seventh.dll
