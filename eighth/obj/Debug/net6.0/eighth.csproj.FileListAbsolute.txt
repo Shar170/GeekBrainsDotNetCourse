@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\bin\Debug\net6.0\eighth.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\bin\Debug\net6.0\eighth.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\bin\Debug\net6.0\eighth.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\bin\Debug\net6.0\eighth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\bin\Debug\net6.0\eighth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\refint\eighth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\eighth.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\eighth\obj\Debug\net6.0\ref\eighth.dll
