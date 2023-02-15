@@ -1,0 +1,15 @@
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.csproj.AssemblyReference.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.GeneratedMSBuildEditorConfig.editorconfig
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.AssemblyInfoInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.AssemblyInfo.cs
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.csproj.CoreCompileInputs.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\bin\Debug\net6.0\ninth.exe
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\bin\Debug\net6.0\ninth.deps.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\bin\Debug\net6.0\ninth.runtimeconfig.json
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\bin\Debug\net6.0\ninth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\bin\Debug\net6.0\ninth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\refint\ninth.dll
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.pdb
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ninth.genruntimeconfig.cache
+I:\projects\GeekBrains\GeekBrainsDotNetCourse\ninth\obj\Debug\net6.0\ref\ninth.dll
